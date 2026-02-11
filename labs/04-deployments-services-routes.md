@@ -51,10 +51,9 @@ Understanding this chain prevents common troubleshooting errors.
 4. Choose **Container Image**.
 5. In the image field, enter:
 
-'''yaml
+```yaml
 quay.io/openshift/hello-openshift
-'''
-
+```
 
 6. Click **Search**.
 7. Leave defaults unless your cluster requires adjustments.
