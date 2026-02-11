@@ -33,6 +33,38 @@ All labs are written to be completed entirely in the OpenShift web console.
 
 ---
 
+## Curriculum Philosophy
+
+This repository is intentionally different from traditional “lab build” training.
+
+It does not require:
+
+- Building a new cluster
+- Running infrastructure automation
+- Debugging installation failures
+- Constructing a synthetic training environment
+
+It assumes the platform already exists.
+
+Many teams do not need to learn how to install OpenShift or MAS.
+They need to understand how to operate what they already have.
+
+This curriculum focuses on:
+
+- Interpreting real workloads
+- Navigating live environments safely
+- Understanding resource behavior
+- Gathering structured evidence
+- Practicing disciplined change management
+
+It is designed for operational fluency — not infrastructure assembly.
+
+In regulated environments, confidence comes from clarity, not complexity.
+
+These exercises help operators understand, interpret, and optimize their existing environment without introducing unnecessary risk or frustration.
+
+---
+
 ## Intended Audience
 
 - IBM MAS application administrators  
