@@ -130,6 +130,8 @@ Locating MAS workloads, operators, and application routes safely.
 ### 08 – BIRT and Report Troubleshooting
 Console-based workflow for collecting logs, identifying reporting pods, checking storage mounts, and preparing incident packets for escalation.
 
+### 09 – Day 2 Operational Readiness
+
 ---
 
 ## Operational Philosophy
